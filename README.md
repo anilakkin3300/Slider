@@ -1,0 +1,2 @@
+# Slider
+Dinamic Slider
